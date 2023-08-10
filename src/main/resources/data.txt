@@ -1,0 +1,1 @@
+---INSERT INTO BOOK (id, isbn, title, author) VALUES (1, 'QWE123', 'Book 1', 'Author 23');
